@@ -1,4 +1,4 @@
-![Web developer](https://media.licdn.com/dms/image/v2/D5616AQFw1VGiS9kcSg/profile-displaybackgroundimage-shrink_350_1400/B56Ze6jPQMHoAY-/0/1751181490301?e=1756944000&v=beta&t=XWzA94rxO6JFxcSoOQs9AI53gEYcDCh7cGdrFu51cxs)
+
 
 ### Hi there 👋, I'm Tamjid Hossain
 #### Web developer
