@@ -1,28 +1,67 @@
-### Hi there 👋,  I'm Tamjid Hossain
-#### Web developer
-![Web developer](https://media.licdn.com/dms/image/v2/D5616AQFenPuBVJl6-g/profile-displaybackgroundimage-shrink_350_1400/B56ZqXtD.CJUAY-/0/1763481765149?e=1764806400&v=beta&t=wtERxEZs0rIEJVGD6ZcKb7Ym9gqhYqbLan_xmLSHTOQ)
+# 👋 Hi, I'm Tamjid Hossain
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### 💻 Full Stack Web Developer
 
-Skills: HTML / CSS / Tailwind / JavaScript React / Firebase/ Node JS / Express JS / MongoDB
+Passionate about building modern, responsive, and user-friendly web applications.  
+I enjoy learning new technologies and creating clean UI/UX experiences with scalable backend systems.
 
-- 🌱 I’m currently learning js 
-- 💬 Ask me about Web developement 
+---
 
+## 🚀 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tamjid97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/epick-hero-codes/)  
+- 🌱 Currently learning **JavaScript & Backend Development**
+- 💬 Ask me about **Web Development**
+- ⚡ Love building creative and real-world projects
+- 🎯 Focused on improving problem-solving and development skills
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/tamjid97)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Skills & Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/tamjid97)](https://github.com/anuraghazra/github-readme-stats)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/tamjid97&show_icons=true)  
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/tamjid97/contributions?format=svg&private=false)  
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/tamjid97)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/tamjid97)  
+## 🌐 Connect With Me
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamjid97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epick-hero-codes/)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=tamjid97&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid97&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=tamjid97&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tamjid97&theme=tokyonight&no-frame=true&margin-w=10)
+
+---
+
+## ✨ Developer Quote
+
+> “Code. Learn. Build. Repeat.”
+
+---
