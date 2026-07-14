@@ -1,80 +1,202 @@
-<!-- Banner Image from Google Drive -->
-<img src="https://lh3.googleusercontent.com/d/1-Qzfpa6jv6AcdBtfT-xEAMIsKfmkyXM4" width="100%" alt="S M Tamjid Hossain Epick Banner" style="border-radius: 10px;">
-
-<h1 align="center">Hi there, I'm S M Tamjid Hossain Epick 👋</h1>
-
-
-<!-- Unique Typing Animation -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+modern+and+scalable+Web+Apps;Turning+designs+into+pixel-perfect+code;Passionate+about+Frontend+%26+Backend;Exploring+AI+Engineering+%26+Serverless" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://lh3.googleusercontent.com/d/1hOTb_vn9u4PX1SGivF703xZay7Rc3x7b" width="100%" alt="S M Tamjid Hossain Epick Banner" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+</p>
 </p>
 
+<h1 align="center">👋 Hi, I'm S M Tamjid Hossain Epick</h1>
+<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast 🎨💻</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+Modern+%26+Scalable+Web+Apps;Turning+Complex+Designs+Into+Pixel-Perfect+Code;Passionate+About+Frontend+%26+Backend+Architecture;Exploring+AI+Engineering+%26+Serverless+Tech" alt="Typing SVG" />
+</p>
+
+<!-- Social Links & Connect -->
+<p align="center">
+  <a href="https://github.com/tamjid97"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/epick-hero-codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+<!-- New Working Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamjid97&label=Profile%20Views&color=0077B5&style=flat" alt="Visitor Counter" />
+</p>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I am a passionate **Full Stack Developer** based in Bangladesh, dedicated to solving real-world problems through elegant and scalable code. With a strong eye for UI/UX, I bridge the gap between design and robust backend architectures. 
+
+- 🔭 **Currently Building:** Next.js & React-based high-performance Web Applications.
+- 🌱 **Currently Exploring:** AI Engineering, Serverless Architectures, and System Design.
+- 🤝 **Open for:** Freelance projects, Open-source collaborations, and Full-time roles.
+- ⚡ **Fun Fact:** When I'm not coding, I'm probably tweaking my development environment or exploring new design trends!
+
+<br/>
+
+<h2 align="center">Tech Stack</h2>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Frontend Development</span></b></td>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Backend & Database</span></b></td>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Tools & Cloud</span></b></td>
+  </tr>
+  
+  <!-- Row 1 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/react/61DAFB" width="35"/><br/>React.js<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="35"/><br/>Next.js<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35"/><br/>Node.js<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"/><br/>Express.js<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/figma/F24E1E" width="35"/><br/>Figma<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/git/F05032" width="35"/><br/>Git<br>&nbsp;</td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/typescript/3178C6" width="35"/><br/>TypeScript<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35"/><br/>JavaScript<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="35"/><br/>Prisma<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="35"/><br/>Firebase<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/github/FFFFFF" width="35"/><br/>GitHub<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="35"/><br/>VS Code<br>&nbsp;</td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35"/><br/>Tailwind<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/framer/0055FF" width="35"/><br/>Framer<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="35"/><br/>PostgreSQL<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/mongodb/47A248" width="35"/><br/>MongoDB<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="35"/><br/>Vercel<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="35"/><br/>Netlify<br>&nbsp;</td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/swiper/6332F6" width="35"/><br/>Swiper<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/html5/E34F26" width="35"/><br/>HTML5<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/mysql/4479A1" width="35"/><br/>SQL<br>&nbsp;</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 
+<h2 align="center">My Services</h2>
+<p align="center">From crafting beautiful UIs to building robust backend systems — here's what I can do for you.</p>
+<br/>
+
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+  <!-- Row 1 -->
+  <tr>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">💻 Frontend</h3>
+      <p align="center">Fast, responsive, modern user interfaces.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">⚡ Full Stack</h3>
+      <p align="center">Scalable APIs, authentication, and databases.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">🎨 UI Design</h3>
+      <p align="center">Pixel-perfect, accessible, and user-friendly.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">🔌 API Integration</h3>
+      <p align="center">Secure REST APIs and 3rd-party services.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">🧪 Quality Assurance</h3>
+      <p align="center">Bug reporting and cross-browser testing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Testing-FF4500?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117;">
+      <h3 align="center">🚀 Performance</h3>
+      <p align="center">High speed, SEO, and user experience.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google-search-console&logoColor=white" />
+        <img src="https://img.shields.io/badge/UX-E91E63?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-I am a passionate developer who loves solving real-world problems through code. With a strong focus on clean code and scalable solutions, I aim to turn complex ideas into powerful, elegant digital experiences.
+> *Here are some of my best works. Click on the links to explore!*
 
-- 🔭 **Currently working on:** Next.js, React, and robust Web Application Architectures.
-- 🌱 **Currently learning:** AI Engineering, Serverless Tech, and Deep Backend Architectures.
-- 💡 **My Passion:** Building cutting-edge web applications with pixel-perfect UI/UX design.
-- 🎯 **Goal:** Innovate, drive growth, and continuously improve my development skills.
+<br/>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Project One Name</h3>
+      <p align="center">A full-stack e-commerce platform with a modern UI, real-time cart functionality, and secure authentication.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="#"><b>🌐 Live Demo</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Project Two Name</h3>
+      <p align="center">An innovative SaaS platform that provides real-time analytics and management tools for modern businesses.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="#"><b>🌐 Live Demo</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="#"><b>💻 GitHub Repo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Analytics & Activity
+
+<!-- Beautiful Activity Graph (নেক্সট লেভেল গ্রাফিক্স) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamjid97&bg_color=1A1B27&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
+
 
 ---
 
-## 🛠️ My Tech Stack
-
-> *A quick look at the technologies I use to bring ideas to life.*
-
-**Languages & Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<!-- Stats and Top Languages Side by Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamjid97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid97&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="48%" />
-</p>
-
-<!-- Contribution Streak Centered -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tamjid97&theme=tokyonight&hide_border=true&background=1A1B27" width="98%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamjid97&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="tamjid97 trophies" />
-</p>
-
----
-
-<p align="center">
-  <i>"code(); build(); improve(); repeat();"</i>
-</p>
+  <i>"code(); build(); improve(); repeat();"</i>
+</p>           amer ai ta akdom sundore kore tau sob golar heading ta maj a same vabe thakbe akdom responsive aro sunrod ar profatinal............
