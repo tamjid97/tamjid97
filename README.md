@@ -1,36 +1,29 @@
-<!-- Banner Image -->
+<h1 align="center">👋 Hi, I'm  <span style='color:#4FC3F7;'>S M Tamjid Hossain Epick</span></h1>
+
 <p align="center">
- <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1hOTb_vn9u4PX1SGivF703xZay7Rc3x7b" width="100%" alt="S M Tamjid Hossain Epick Banner" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
-</p>
+<img src="https://lh3.googleusercontent.com/d/1hOTb_vn9u4PX1SGivF703xZay7Rc3x7b" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm S M Tamjid Hossain Epick</h1>
-<h3 align="center">Full Stack Web Developer | UI/UX Enthusiast 🎨💻</h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Building+Modern+%26+Scalable+Web+Apps;Turning+Complex+Designs+Into+Pixel-Perfect+Code;Passionate+About+Frontend+%26+Backend+Architecture;Exploring+AI+Engineering+%26+Serverless+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Welcome+To+My+GitHub+Profile" />
 </p>
 
 <!-- Social Links & Connect -->
+<h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
   <a href="https://github.com/tamjid97"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/epick-hero-codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-<!-- New Working Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamjid97&label=Profile%20Views&color=0077B5&style=flat" alt="Visitor Counter" />
-</p>
-
 <br/>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I am a passionate **Full Stack Developer** based in Bangladesh, dedicated to solving real-world problems through elegant and scalable code. With a strong eye for UI/UX, I bridge the gap between design and robust backend architectures. 
+<div align="center">
+  <p>I am a passionate <b>Full Stack Developer</b> based in Bangladesh, dedicated to solving real-world problems through elegant and scalable code. With a strong eye for UI/UX, I bridge the gap between design and robust backend architectures.</p>
+</div>
 
 - 🔭 **Currently Building:** Next.js & React-based high-performance Web Applications.
 - 🌱 **Currently Exploring:** AI Engineering, Serverless Architectures, and System Design.
@@ -39,54 +32,57 @@ I am a passionate **Full Stack Developer** based in Bangladesh, dedicated to sol
 
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center"><i>Languages, Frameworks, and Tools I use to build things.</i></p>
+
+<br/>
 
 <table align="center" style="border: none;">
-  <tr>
-    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Frontend Development</span></b></td>
-    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Backend & Database</span></b></td>
-    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Tools & Cloud</span></b></td>
-  </tr>
-  
-  <!-- Row 1 -->
-  <tr>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/react/61DAFB" width="35"/><br/>React.js<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="35"/><br/>Next.js<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="35"/><br/>Node.js<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/express/FFFFFF" width="35"/><br/>Express.js<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/figma/F24E1E" width="35"/><br/>Figma<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/git/F05032" width="35"/><br/>Git<br>&nbsp;</td>
-  </tr>
+  <tr>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Frontend Development</span></b></td>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Backend & Database</span></b></td>
+    <td align="center" colspan="2" width="33%"><b><span style="color: #c084fc;">Tools & Cloud</span></b></td>
+  </tr>
+  
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/><br/>React.js<br>&nbsp;</td>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40"/><br/>Next.js<br>&nbsp;</td>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40"/><br/>Node.js<br>&nbsp;</td>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/express/FFFFFF" width="40"/><br/>Express.js<br>&nbsp;</td>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/><br/>Figma<br>&nbsp;</td>
+    <td align="center" width="16.6%"><br><img src="https://cdn.simpleicons.org/git/F05032" width="40"/><br/>Git<br>&nbsp;</td>
+  </tr>
 
-  <!-- Row 2 -->
-  <tr>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/typescript/3178C6" width="35"/><br/>TypeScript<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="35"/><br/>JavaScript<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="35"/><br/>Prisma<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="35"/><br/>Firebase<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/github/FFFFFF" width="35"/><br/>GitHub<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="35"/><br/>VS Code<br>&nbsp;</td>
-  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/><br/>TypeScript<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/><br/>JavaScript<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="40"/><br/>Prisma<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40"/><br/>Firebase<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/><br/>GitHub<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40"/><br/>VS Code<br>&nbsp;</td>
+  </tr>
 
-  <!-- Row 3 -->
-  <tr>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="35"/><br/>Tailwind<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/framer/0055FF" width="35"/><br/>Framer<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="35"/><br/>PostgreSQL<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/mongodb/47A248" width="35"/><br/>MongoDB<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="35"/><br/>Vercel<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="35"/><br/>Netlify<br>&nbsp;</td>
-  </tr>
+  <!-- Row 3 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/><br/>Tailwind<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/framer/0055FF" width="40"/><br/>Framer<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/><br/>PostgreSQL<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/><br/>MongoDB<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="40"/><br/>Vercel<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40"/><br/>Netlify<br>&nbsp;</td>
+  </tr>
 
-  <!-- Row 4 -->
-  <tr>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/swiper/6332F6" width="35"/><br/>Swiper<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/html5/E34F26" width="35"/><br/>HTML5<br>&nbsp;</td>
-    <td align="center"><br><img src="https://cdn.simpleicons.org/mysql/4479A1" width="35"/><br/>SQL<br>&nbsp;</td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
+  <!-- Row 4 -->
+  <tr>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/swiper/6332F6" width="40"/><br/>Swiper<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/><br/>HTML5<br>&nbsp;</td>
+    <td align="center"><br><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40"/><br/>SQL<br>&nbsp;</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
 </table>
 
 
@@ -199,4 +195,9 @@ I am a passionate **Full Stack Developer** based in Bangladesh, dedicated to sol
 
 <p align="center">
   <i>"code(); build(); improve(); repeat();"</i>
-</p>           amer ai ta akdom sundore kore tau sob golar heading ta maj a same vabe thakbe akdom responsive aro sunrod ar profatinal............
+</p>           
+
+<!-- New Working Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamjid97&label=Profile%20Views&color=0077B5&style=flat" alt="Visitor Counter" />
+</p>
