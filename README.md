@@ -204,16 +204,21 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>🤖 Analytics SaaS</h3>
-      <p>An innovative SaaS platform that provides real-time analytics and management tools for modern businesses.</p>
-      <br/>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      </p>
-      <p>
-        <a href="#"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; <a href="#"><b>💻 GitHub Repo</b></a>
-      </p>
+<h3>📑 AmaderPathshala - Biology Learning Portal</h3>
+<p>An interactive, pure frontend biology resource platform providing visual topic guides and instant PDF study material downloads for students.</p>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</p>
+<p>
+  <a href="https://amaderpathshala-21244.web.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
+  <a href="https://github.com/tamjid97/amader_pathshala.git" target="_blank"><b>💻 GitHub Repo</b></a>
+</p>
       <br/>
     </td>
   </tr>
