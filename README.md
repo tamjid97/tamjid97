@@ -183,15 +183,22 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br/>
-      <h3>🛒 E-Commerce Platform</h3>
-      <p>A full-stack e-commerce platform with a modern UI, real-time cart functionality, and secure authentication.</p>
+      <h3>🏠 RentNest</h3>
+      <p>RentNest is a full-featured, modern, and responsive property rental marketplace application built with Next.js (App Router). It bridges the gap between tenants looking for ideal homes, landlords managing their properties and requests, and administrators overseeing platform health.</p>
       <br/>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       </p>
       <p>
-        <a href="#"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; <a href="#"><b>💻 GitHub Repo</b></a>
+        <a href="https://rentnest-navy.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/tamjid97/RentNest_Frontend.git"><b>💻 GitHub Repo</b></a>
       </p>
       <br/>
     </td>
