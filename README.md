@@ -184,41 +184,43 @@
     <td width="50%" align="center" valign="top">
       <br/>
       <h3>🏠 RentNest</h3>
-      <p>RentNest is a full-featured, modern, and responsive property rental marketplace application built with Next.js (App Router). It bridges the gap between tenants looking for ideal homes, landlords managing their properties and requests, and administrators overseeing platform health.</p>
+      <p>RentNest is a full-featured, modern, and responsive property rental marketplace application built with Next.js (App Router). It streamlines the rental ecosystem by seamlessly bridging tenants looking for ideal homes, landlords managing properties and booking requests, and administrators overseeing overall platform health through an intuitive and secure digital experience.</p>
       <br/>
       <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       </p>
       <p>
-        <a href="https://rentnest-navy.vercel.app"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/tamjid97/RentNest_Frontend.git"><b>💻 GitHub Repo</b></a>
+        <a href="https://rentnest-navy.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/tamjid97/RentNest_Frontend.git" target="_blank"><b>💻 GitHub Repo</b></a>
       </p>
       <br/>
     </td>
     <td width="50%" align="center" valign="top">
       <br/>
-<h3>📑 AmaderPathshala - Biology Learning Portal</h3>
-<p>An interactive, pure frontend biology resource platform providing visual topic guides and instant PDF study material downloads for students.</p>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
-<p>
-  <a href="https://amaderpathshala-21244.web.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
-  <a href="https://github.com/tamjid97/amader_pathshala.git" target="_blank"><b>💻 GitHub Repo</b></a>
-</p>
+      <h3>🧬 Roots of Biology</h3>
+      <p>Roots of Biology is a specialized learning management system focused on biology education, built with Next.js. It streamlines the academic ecosystem by seamlessly bridging students accessing interactive learning resources, moderators managing schedules and approvals, and administrators overseeing platform security through a strict 3-tier role-based access control architecture.</p>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://roots-of-biology-pro.vercel.app" target="_blank"><b>🌐 Live Demo</b></a> &nbsp;|&nbsp; 
+        <a href="https://github.com/tamjid97/ROOTS-OF-BIOLOGY-V2" target="_blank"><b>💻 GitHub Repo</b></a>
+      </p>
       <br/>
     </td>
   </tr>
