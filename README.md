@@ -1,7 +1,11 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">S M Tamjid Hossain Epick</span></h1>
+
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1hOTb_vn9u4PX1SGivF703xZay7Rc3x7b" width="100%" alt="Banner">
+ <img 
+  src="https://lh3.googleusercontent.com/d/1G68nAg4Ay3KmU-CCI44xsRffv_neuUlq" 
+  alt="SM Tamjid Hossain Epick"
+  className="w-full h-auto object-cover object-top" 
+/>
 </p>
 
 <p align="center">
